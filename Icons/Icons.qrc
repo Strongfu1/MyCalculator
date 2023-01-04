@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SeaMelody/VerticalKey.png</file>
+        <file>../Font/Aloevera.ttf</file>
+        <file>Koi/Key.png</file>
+        <file>Koi/ColorKey.png</file>
+        <file>Koi/SpecialKey.png</file>
+        <file>Koi/VerticalKey.png</file>
+        <file>Koi/Zero.png</file>
+        <file>SeaMelody/ColorKey.png</file>
+        <file>SeaMelody/Key.png</file>
+        <file>SeaMelody/text_area.png</file>
+        <file>SeaMelody/SpecialKey.png</file>
+        <file>SeaMelody/Zero.png</file>
+        <file>Panda/ColorKey.png</file>
+        <file>Panda/Key.png</file>
+        <file>Panda/SpecialKey.png</file>
+        <file>Panda/VerticalKey.png</file>
+        <file>Panda/Zero.png</file>
+        <file>Sakura/ColorKey.png</file>
+        <file>Sakura/Key.png</file>
+        <file>Sakura/text_area.png</file>
+        <file>Sakura/SpecialKey.png</file>
+        <file>Sakura/VerticalKey.png</file>
+        <file>Sakura/Zero.png</file>
+        <file>SeaMelody/Deposit.png</file>
+        <file>SeaMelody/Credit.png</file>
+        <file>Koi/Deposit.png</file>
+        <file>Koi/Credit.png</file>
+        <file>Panda/Deposit.png</file>
+        <file>Panda/Credit.png</file>
+        <file>Sakura/Deposit.png</file>
+        <file>Sakura/Credit.png</file>
+        <file>Panda/text_area.png</file>
+        <file>Koi/text_area.png</file>
+    </qresource>
+</RCC>
