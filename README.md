@@ -9,16 +9,14 @@ Project was written using MVC pattern
 ## Examples
 
 ### Mathematical
-GIF HERE
+![Mathematical](GIF/MathCalc.gif)
 
+#### Changing Design
+![Design](GIF/Design.gif)
 ### Credit
-
-GIF HERE
-
+![Credit](GIF/Credit.gif)
 ### Deposit
-
-GIF HERE
-
+![Deposit](GIF/Deposit.gif)
 ## Compiling
 
 Project compiles using Makefile+QMake with these targets:
